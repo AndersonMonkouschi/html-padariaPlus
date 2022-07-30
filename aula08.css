@@ -1,0 +1,126 @@
+body {
+    font-family: tahoma;
+}
+
+.imagem-logotipo {
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.secao {
+    width: 700px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+#produtos .bolo {
+    width: 600px;
+    text-align: center;
+}
+
+.banner {
+    width: 700px;
+}
+
+.link-pagina {
+    display: inline;
+    margin: 10px;
+    text-decoration: none;
+    color: #ff8f1f;
+}
+
+.secao p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 28px;
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 0;
+    border-top: 1px solid #8f3f2f;
+}
+
+h2 {
+    font-size: 20px;
+    color: #8f3f2f;
+    margin-bottom: 20px;
+}
+
+#borda {
+    background-color: #8f3f2f;
+    width: 600px;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.banner {
+    margin-bottom: 20px;
+}
+
+#produtos {
+    width: 700px;
+    margin: 5px auto;
+    text-align: center;
+}
+
+.seta {
+    width: 40px;
+    height: 40px;
+}
+
+.parSeta {
+    display: inline;
+}
+
+.paobolo {
+    width: 700px;
+}
+
+.subpao {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.paragrafos {
+    margin-top: 5px;
+    line-height: 25px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.entalhada {
+    border-top: 10px groove #8f3f2f;
+    margin-top: 30px;
+}
+
+#contatos {
+    width: 700px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#contatos h3 {
+    font-size: 20px;
+}
+
+.paragrafoscontato {
+    font-size: 15px;
+    font-style: italic;
+}
+
+span {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.fundo-topo {
+    background-image: url("paoFundo.jpg");
+    opacity: 0.3;
+}
